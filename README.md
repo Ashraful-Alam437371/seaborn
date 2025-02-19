@@ -1,2 +1,2 @@
 # seaborn
-Seaborn
+Seaborn Project
